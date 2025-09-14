@@ -1,0 +1,10 @@
+@import '_variables.css';
+.examples {
+    background-color: var(--gray-dark);
+    width: 100%;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
